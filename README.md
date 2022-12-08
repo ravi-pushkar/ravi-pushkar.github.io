@@ -7,7 +7,7 @@ Besides tech, I like playing outdoor games like cricket and badminton.
 Feel free to reach out to me.
 
 <div id="badges">
-  <a href="
+<!--   <a href=" -->
 
   <a href="https://www.linkedin.com/in/ravi-pushkar/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
