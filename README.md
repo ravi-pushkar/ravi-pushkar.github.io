@@ -24,7 +24,7 @@ Feel free to reach out to me.
 </div>
 
 
-https://komarev.com/ghpvc/?username = ravi-pushkar
+<img src="https://komarev.com/ghpvc/?username=ravi-pushkar&style=flat-square&color=blue" alt=""/>
 
 <!--
 **ravi-pushkar/ravi-pushkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
