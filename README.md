@@ -1,7 +1,7 @@
 ### Hi there 👋
 <img src="https://komarev.com/ghpvc/?username=ravi-pushkar&style=flat-square&color=blue" alt=""/>
 
-I am Ravi Pushkar, a final year dual-degree (B.Tech + M.Tech) student in Mathematics and computing department at IIT Delhi, India. I am interested in problem-solving and programming.
+I am Ravi Pushkar, a final year dual-degree (B.Tech + M.Tech) student in Mathematics and Computing department at IIT Delhi, India. I am interested in problem-solving and programming.
 Besides tech, I like playing outdoor games like cricket and badminton.
 
 
