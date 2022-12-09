@@ -1,3 +1,3 @@
 My Portfolio
 ---
-Check out my portfolio: @ https://ravi-pushkar.github.io/
+Check out my portfolio: https://ravi-pushkar.github.io/
