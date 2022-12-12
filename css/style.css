@@ -140,7 +140,7 @@ Home Background
 }
 
 .sect-pt4 {
-  padding-top: 4rem;
+  padding-top: 0rem;
 }
 
 .sect-mt4 {
@@ -770,7 +770,7 @@ input[type=button]:hover {
 .img12 {
   height: 100vh;
  
-  background-image: url("img/bg.jpg");//ismai absolute path kr k ho rha but relative p nahi check kr lena tum
+  background-image: url("../img/bg.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -894,11 +894,24 @@ Animation
 
 .service-box {
   background-color: #fff;
-  padding: 2.5rem 1.3rem;
+  padding: 6.5rem 2.3rem;
   border-radius: 1rem;
   margin-bottom: 3rem;
+  height: 450px;
 }
 
+#experience {
+    margin-bottom: 58px;
+}
+
+.col-md-4 {
+
+}
+
+#contact {
+    margin-top: 143px;
+
+}
 .service-box:hover .ico-circle {
   transition: all 500ms ease;
   color: #fff;
@@ -962,6 +975,7 @@ Animation
   backface-visibility: hidden;
   background-color: #fff;
   border-radius: 6px;
+  height: 97%;
 }
 
 .work-box:hover img {
@@ -975,7 +989,9 @@ Animation
 }
 
 .work-img img {
-  transition: all 1s;
+  padding: 1px;
+  transition: all 0.5s;
+  border-radius: 10px;
 }
 
 .work-content {
@@ -1016,6 +1032,8 @@ Animation
 .testimonials .owl-carousel .owl-item img {
   width: auto;
 }
+
+.div
 
 .testimonial-box {
   color: #fff;
@@ -1069,6 +1087,9 @@ Animation
   transform: scale(1.3);
 }
 
+.card {
+  height: 110%;
+}
 .card-blog .card-body {
   position: relative;
   border-radius: 10px;
@@ -1392,17 +1413,17 @@ footer .credits a {
     background: #121212;
   }
 }
-/*@media (min-width: 577px) {
+@media (min-width: 577px) {
   .counter-box {
     margin-bottom: 1.8rem;
   }
 
-    .about-img2 .img1 {
+    /*.about-img2 .img1 {
       width: 100%;
       height: auto;
     
-  }
-}*/
+  }*/
+}
 @media screen and (max-width: 768px) {
   
     .about-img2 .img1 {
@@ -1436,6 +1457,30 @@ footer .credits a {
     
   }
 
+}
+
+@media only screen and (min-width: 768px) and (max-width: 768px) {
+  .about-img2 .img1 {
+      width: 200%;
+      height: 200%;
+      object-fit: cover;
+    
+  }
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1399px){
+.col-md-4 {
+    flex: 0 0 auto;
+    width: 32.333333%;
+  }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px){
+.col-md-4 {
+    flex: 0 0 auto;
+    width: 33.333333%;
+  }
 }
 
 @media (min-width: 768px) {
