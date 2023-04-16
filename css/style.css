@@ -1548,3 +1548,27 @@ footer .credits a {
     bottom: 15px;
   }
 }
+
+@media (min-width: 375px){
+  .socials .ico-circle{
+    margin-bottom: 5px;
+  }
+}
+
+@media (min-width: 360px){
+  .socials .ico-circle{
+    margin-bottom: 5px;
+  }
+}
+
+@media (min-width: 280px){
+  .socials .ico-circle{
+    margin-bottom: 10px;
+  }
+}
+
+@media (min-width: 240px){
+  .socials .ico-circle{
+    margin-bottom: 10px;
+  }
+}
